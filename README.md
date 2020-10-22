@@ -23,3 +23,5 @@ npm start
 # Build and package for deploy
 npm run build
 ```
+
+![ScreenShot](https://github.com/bobbrady/simple-react-webpack-5-boilerplate/blob/master/ScreenShot.png)
